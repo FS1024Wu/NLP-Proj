@@ -1,3 +1,3 @@
 Natural Language Processing product review
-download then editing to your path.
+download then edit the path to your path.
 
